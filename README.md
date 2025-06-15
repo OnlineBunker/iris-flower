@@ -32,6 +32,12 @@ To explore the Iris dataset using Python libraries and extract meaningful insigh
 
 ---
 
+## Images
+* ScatterPlot
+<img src="images/image1.png" width="50%"/>
+
+---
+
 ## 🛠️ Tech Stack
 
 * Python 🐍
