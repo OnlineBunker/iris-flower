@@ -36,6 +36,9 @@ To explore the Iris dataset using Python libraries and extract meaningful insigh
 * ScatterPlot
 <img src="images/image1.png" width="50%"/>
 
+*HistPlot Frequency 
+<img src="images/image2.png" width="50%" />
+
 ---
 
 ## 🛠️ Tech Stack
